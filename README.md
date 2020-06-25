@@ -35,5 +35,5 @@ The example 3 is used to show the importance of protection rate and quarantine r
 The results is following:![curve](保护率.png) ![curve](隔离速率对确诊病例的影响.png)
 
 ## Ref
-[1] https://github.com/ECheynet/SEIR
+[1] https://github.com/ECheynet/SEIR  
 [2] https://arxiv.org/abs/2002.06563
